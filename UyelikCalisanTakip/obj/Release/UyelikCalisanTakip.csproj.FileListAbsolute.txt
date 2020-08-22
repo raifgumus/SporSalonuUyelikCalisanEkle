@@ -1,0 +1,11 @@
+C:\Users\rfgms\Desktop\Ödev\UyelikCalisanTakip\UyelikCalisanTakip\obj\Release\UyelikCalisanTakip.Properties.Resources.resources
+C:\Users\rfgms\Desktop\Ödev\UyelikCalisanTakip\UyelikCalisanTakip\obj\Release\UyelikCalisanTakip.frmUyelik.resources
+C:\Users\rfgms\Desktop\Ödev\UyelikCalisanTakip\UyelikCalisanTakip\obj\Release\UyelikCalisanTakip.csproj.GenerateResource.cache
+C:\Users\rfgms\Desktop\Ödev\UyelikCalisanTakip\UyelikCalisanTakip\obj\Release\UyelikCalisanTakip.csproj.CoreCompileInputs.cache
+C:\Users\rfgms\Desktop\Ödev\UyelikCalisanTakip\UyelikCalisanTakip\bin\Release\UyelikCalisanTakip.exe.config
+C:\Users\rfgms\Desktop\Ödev\UyelikCalisanTakip\UyelikCalisanTakip\bin\Release\UyelikCalisanTakip.exe
+C:\Users\rfgms\Desktop\Ödev\UyelikCalisanTakip\UyelikCalisanTakip\bin\Release\UyelikCalisanTakip.pdb
+C:\Users\rfgms\Desktop\Ödev\UyelikCalisanTakip\UyelikCalisanTakip\obj\Release\UyelikCalisanTakip.exe
+C:\Users\rfgms\Desktop\Ödev\UyelikCalisanTakip\UyelikCalisanTakip\obj\Release\UyelikCalisanTakip.pdb
+C:\Users\rfgms\Desktop\Ödev\UyelikCalisanTakip\UyelikCalisanTakip\obj\Release\UyelikCalisanTakip.csprojAssemblyReference.cache
+C:\Users\rfgms\Desktop\Ödev\UyelikCalisanTakip\UyelikCalisanTakip\obj\Release\UyelikCalisanTakip.CalisanBilgisi.resources
